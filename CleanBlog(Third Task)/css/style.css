@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+a{
+    text-decoration: none;
+}
+
+
+.A{
+ 
+    background-image: url(	https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg);
+    text-align: center;
+    padding: 13rem 0;
+    background-position: center;
+    background-size: cover;
+    font-size: 1,25rem;
+   
+}
+.A h1{
+    color: #fff;
+    font-size: 90px;
+    margin: 0px 0px 8px;
+
+}
+.A span {
+    color: #fff;
+    font-size: 24px;
+    margin: 10px 0px 0px;
+}
+.B h2{
+    color: #212529;
+    font-size: 40px;
+    margin: 30px 0px 10px ;
+}
+.B h3{
+    color: #212529;
+    font-size: 28px;
+    font-weight: 300;
+    margin: 0px 0px 10px;
+}
+.B p{
+    font-style: italic;
+    color: #6c757d;
+    font-size: 1.125rem;
+    margin: 1rem 0;
+}
+.last{
+    margin-top: 50px;
+    text-align: right;
+}
+.last a{
+    color: #fff;
+    padding: 15px 22px 17px 40px;
+    background-color: #0085A1;
+    font-size: 20px;
+    
+}
+.B{
+    width: 47%;
+    margin: 4rem auto;
+    
+}
+.C p{
+   
+    font-style: italic;
+    color: #6c757d;
+    font-size: 1.160rem;
+    width: 40%;
+    margin: 4rem auto;
+    text-align: center;
+    
+}
+hr{
+    opacity: 0.3;
+}
